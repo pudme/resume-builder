@@ -35,4 +35,4 @@ Visit our [GitHub repository](https://github.com/pudme) for:
 - Updates and announcements
 
 ## Credits & Support
-Created and maintained by [@pudme](https://github.com/pudme) 
+Created and maintained by [@pudme](https://github.com/pudme)
