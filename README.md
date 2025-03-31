@@ -1,4 +1,4 @@
-# ATS-Friendly Resume Builder 🎯
+# ATS-Friendly Resume Builder
 
 A professional resume builder application that helps you create ATS-optimized resumes with AI assistance.
 
